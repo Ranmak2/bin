@@ -7,7 +7,7 @@
  || device.match(/iPhone|iPad|iPod/i)
  || device.match(/Opera Mini/i)
  || device.match(/IEMobile/i)
-
+ || device.match(/android/i)
  || device.match(/Windows Phone/i)
  || device.match(/windows mobile/i)
  || device.match(/windows ce/i)
